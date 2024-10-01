@@ -1,4 +1,4 @@
-# NavQuest3D
+# Nav Quest 3D
 A quick [Godot](https://godotengine.org/) project one may use to better understand the complexities of the `3D` viewport navigation.
 
 ## Instructions
